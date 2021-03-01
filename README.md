@@ -49,5 +49,5 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ![screenshot-3](https://raw.githubusercontent.com/jacob-studer/02-Advanced-CSS-Portfolio/main/assets/images/Screenshot-3.PNG)
 
 ## Links
-https://github.com/jacob-studer/01.HTML.CSS.GitCodeRefactor.jstuder
-https://jacob-studer.github.io/01.HTML.CSS.GitCodeRefactor.jstuder/
+https://github.com/jacob-studer/02-Advanced-CSS-Portfolio
+https://jacob-studer.github.io/02-Advanced-CSS-Portfolio/
