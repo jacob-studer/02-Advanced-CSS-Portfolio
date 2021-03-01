@@ -44,9 +44,9 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ```
 
 ## Screenshots
-![screenshot-1](https://raw.githubusercontent.com/jacob-studer/01.HTML.CSS.GitCodeRefactor.jstuder/main/assets/images/Horiseon-screenshot-1.PNG)
-![screenshot-2](https://raw.githubusercontent.com/jacob-studer/)
-![screenshot-3](https://raw.githubusercontent.com/jacob-studer/)
+![screenshot-1](https://raw.githubusercontent.com/jacob-studer/02-Advanced-CSS-Portfolio/main/assets/images/Screenshot-1.PNG)
+![screenshot-2](https://raw.githubusercontent.com/jacob-studer/02-Advanced-CSS-Portfolio/main/assets/images/Screenshot-2.PNG)
+![screenshot-3](https://raw.githubusercontent.com/jacob-studer/02-Advanced-CSS-Portfolio/main/assets/images/Screenshot-3.PNG)
 
 ## Links
 https://github.com/jacob-studer/01.HTML.CSS.GitCodeRefactor.jstuder
